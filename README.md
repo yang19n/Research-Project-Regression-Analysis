@@ -9,3 +9,5 @@ Python (numpy, pandas, sklearn, matplotlib, seaborn)
 Multiple linear regression
 ### Dataset
 First-hand data collected using hotwire anemometer and thermal camera
+### Data processing and analysis
+Link: https://github.com/yang19n/Research-Project-Regression-Analysis/blob/main/strip_regression.ipynb
